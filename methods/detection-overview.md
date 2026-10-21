@@ -28,7 +28,7 @@ counts on video far out of line with the account's distribution. Uses only
 aggregate, platform-provided metrics.
 
 **scam_monetization.** Co-occurrence of results-narrative keywords with Pix
-payment solicitation phrases from ../dictionary/scam-phrases-2024.txt.
+payment solicitation phrases from ../dictionary/scam-phrases.txt.
 
 **seeding.** Flags from our external livestream monitoring (Vigia, covering
 Twitch, Kick, and YouTube chat and transcription) are used as seeds: a flag

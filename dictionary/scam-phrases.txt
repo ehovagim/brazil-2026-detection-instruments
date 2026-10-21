@@ -1,0 +1,28 @@
+# Scam phrases: counterfeit-results and Pix-payment operations
+# Vehicle: fake results livestreams, chain messages, and ads that funnel
+# viewers into Pix payments.
+#
+# Format:
+#   phrase or pattern | source class | source detail
+#
+# Source classes:
+#   documented-2024  phrase pattern from a fact-checker-documented 2024 case
+#   capture-2026     observed in our own captures, October 20, 2026 dry run
+#
+# Sourcing rule (unchanged): a phrase enters this panel only if it appears
+# in at least one archived example: fact-checker report, TSE case file, or
+# our own capture.
+
+# --- Pattern class: fake official donation solicitation ---
+pedindo doação via Pix | capture-2026 | telegram signal, Oct 20 2026: fake candidate video paired with a committee-lookalike Pix key; forensic synthetic verdict 0.94
+golpe no Pix usando nome do TSE | documented-2024 | Comprova, "Corrente sobre golpe no Pix usando nome do TSE é falsa, diz tribunal"
+
+# --- Pattern class: reward/bait ads around debates and results ---
+Ganhe R$500 no PIX agora | capture-2026 | Meta Ad Library signal, Oct 20 2026: "Assistiu ao debate? Ganhe R$500 no PIX agora — cadastro grátis"
+
+# --- Pattern class: Pix-for-airtime mechanics ---
+Envie uma mensagem no pix e adicione tempo | capture-2026 | Twitch chat, Oct 20 2026: pay-to-extend-livestream mechanic
+mandei e não apareceu o pix | capture-2026 | Twitch chat, Oct 20 2026: victim-behavior marker; indicates a scam in progress, worth fast triage
+
+# --- Pattern class: counterfeit channel naming ---
+live_pix_oficial / live_pix_brasil naming convention | capture-2026 | audience spikes 2,310 -> 27,974 and 15,600 -> 210,458 observed on such channels within hours, Oct 20 2026

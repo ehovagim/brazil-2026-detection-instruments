@@ -1,11 +1,26 @@
 # Hashtag panels
-# One hashtag per line. Panels are split by function, not by candidate.
+# One hashtag per line: tag | panel | source detail
 #
-# TODO: populate during Phase 1 using the Content Library count endpoints
-# to verify recall. A hashtag belongs in the panel only if count queries
-# confirm it is in active use during the study window.
+# Panels:
+#   reference     official-body tags used as a comparison baseline; when
+#                 these tags appear on non-official accounts, that is a
+#                 signal, not background noise
+#   narrative     fraud/results narratives (to be filled from count-query
+#                 validation and documented cases)
+#   candidate     candidate-aligned tags (fill after October 4, 2026)
 #
-# Planned panels:
-# - results/fraud narratives (to be filled)
-# - candidate-aligned organic tags (after October 4, 2026)
-# - coordinated-behavior tags observed in synchronized bursts
+# Sourcing rule: a hashtag enters a panel only if count queries confirm it
+# is in active use during the study window, or it appears in a documented
+# fact-checked case.
+
+# --- Panel: reference (official body) ---
+#tse | reference | in our Oct 20, 2026 captures this tag appears predominantly on the TSE's own official channel; co-opted use on other accounts is a Class 1 (impersonation) signal
+#justiçaeleitoral | reference | same pattern as #tse: official TSE outreach tag in our captures
+
+# --- Panel: narrative ---
+# TODO: fill during Phase 1 count-query validation against the 2024 baseline
+# window. Candidate entries to verify: tags attached to documented
+# fraud-narrative cascades in fact-checker reports.
+
+# --- Panel: candidate ---
+# TODO: fill after the October 4, 2026 first round.
