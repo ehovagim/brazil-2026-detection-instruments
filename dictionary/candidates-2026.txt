@@ -1,0 +1,9 @@
+# Candidate names, 2026 cycle
+# One name per line, with common variants (full name, last name, nicknames).
+#
+# TODO: populate after the first round on October 4, 2026. The panel must
+# cover both runoff candidates plus any first-round candidate whose content
+# keeps circulating after elimination.
+#
+# Reference, 2022 runoff panel (do not reuse without re-verification):
+# Luiz Inácio Lula da Silva; Lula; Jair Bolsonaro; Bolsonaro.

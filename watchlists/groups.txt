@@ -1,0 +1,9 @@
+# Watchlist: public Facebook groups
+# One group per line: group name | group URL | source | date_added
+#
+# Sourcing rule: public groups only, documented by Brazilian fact-checking
+# organizations, TSE case files, or our own archived captures. Private or
+# restricted groups are out of scope for this program.
+#
+# Status: empty. Population happens during Phase 1 and is logged in the
+# changelog with the source for each entry.

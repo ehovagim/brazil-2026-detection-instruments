@@ -1,0 +1,23 @@
+# Core electoral vocabulary (Portuguese)
+# One term or phrase per line. Lines starting with # are comments.
+# Panel: terms that identify election-results and fraud narratives.
+
+fraude eleitoral
+fraude nas urnas
+eleição roubada
+eleição fraudada
+apuração
+apuração ao vivo
+resultado oficial
+resultado da eleição
+resultado parcial
+urnas
+urna eletrônica
+boletim da urna
+voto impresso
+recontagem
+intervenção militar
+forças armadas
+golpe
+anulação das eleições
+cassação

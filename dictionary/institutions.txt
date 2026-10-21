@@ -1,0 +1,13 @@
+# Institutions and official bodies (Portuguese)
+# Impersonation targets for Class 1 (counterfeit_official_broadcast).
+# Include common misspellings and spacing variants as they are documented.
+
+tribunal superior eleitoral
+tse
+justiça eleitoral
+tribunal regional eleitoral
+tre
+ministério público eleitoral
+presidente do tse
+cartório eleitoral
+zonas eleitorais

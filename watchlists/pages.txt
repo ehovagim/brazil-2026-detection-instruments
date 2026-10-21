@@ -1,0 +1,9 @@
+# Watchlist: public Facebook pages
+# One page per line: page name | page URL | source | date_added
+#
+# Sourcing rule: only pages documented by Brazilian fact-checking
+# organizations, TSE case files, or our own archived captures. No pages
+# added by guesswork.
+#
+# Status: empty. Population happens during Phase 1 and is logged in the
+# changelog with the source for each entry.
